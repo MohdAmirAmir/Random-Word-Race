@@ -1,4 +1,4 @@
-const words = ["apple", "banana", "orange", "grape", "strawberry", "kiwi", "mango", "blueberry", "peach", "pear"];
+const words = ["Apple", "Incomprehensibilities", "Orange", "Floccinaucinihilipilification" ,"Cars", "Strawberry", "Kiwi", "Spacecrafts" , "Mango", "Blueberry", "Peach", "Pear"];
 let currentWord;
 let startTime;
 let timer;
